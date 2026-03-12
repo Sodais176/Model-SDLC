@@ -1,2 +1,5 @@
 # Model-SDLC
-Kelompok 7 bingung menentukan metode pengembangan yang tepat untuk sistem kebutuhannya sering berubah
+Tim Kelompok 7:
+1. Muhammad Sodais Adam
+2. Dara Ayu Aprilia
+3. Nur Sakiya
